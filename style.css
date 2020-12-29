@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.about_para{
+	column-count: 3;
+	column-gap: 100px;
+	column-rule: dashed;
+	text-align: justify;
+	
+}
